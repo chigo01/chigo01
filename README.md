@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FavourBaruch05&label=Profile%20views&color=0e75b6&style=flat" alt="Favour" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FavourBaruch?logo=twitter&style=for-the-badge" alt="FavourBruch" /></a> </p>
+<p align="left"> <a href="https://twitter.com/FavourBaruch" target="blank"><img src="https://img.shields.io/twitter/follow/FavourBaruch?logo=twitter&style=for-the-badge" alt="FavourBruch" /></a> </p>
 
 - 🔭 I’m currently working on **Projects in Flutter and Dart**
 
